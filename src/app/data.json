@@ -1,0 +1,154 @@
+{
+  "header": {
+    "name": "Muhammad Hamdy",
+    "title": "Software Engineer",
+    "email": "muhammadhamdyrawash@gmail.com",
+    "phone": "+20-101-924-0800",
+    "linkedin": "https://www.linkedin.com/in/modsyan/",
+    "github": "https://github.com/modsyan",
+    "location": "Egypt, Giza - 12961"
+  },
+  "careerSummary": "A full of enthusiasm, and an innovative backend engineer with a passion to tackle knotted problems. During my five-month tenure as a full-stack developer (.NET) at the Middle East Automobile & Tourism Club (M.A.C), I spearheaded the development of various applications, enhancing the existing codebase, and building systems that expanded their service offerings as well as customer satisfaction. Having a robust grounding in core software engineering principles and guidelines, including SOLID Principles, architectural patterns, design patterns, object-oriented design, data structures, algorithms, and various architectures, with a fully understanding of various models of software production like SDLC and incremental and iterative incremental-based models, it facilitates rapid adaptation to new technologies no matter the syntax. Eager to join and contribute to projects that will create a positive and sustainable impact on the community.",
+  "education": [
+    {
+      "institution": "Canadian International College",
+      "location": "New Cairo",
+      "degree": "Bachelor of Computer Science",
+      "major": "Cloud and Mobile Computing",
+      "startDate": "06/20",
+      "endDate": "06/24"
+    }
+  ],
+  "workHistory": [
+    {
+      "company": "Middle East Automobile & Tourism Club",
+      "location": "Saudi Arabia, KSA Remote",
+      "position": "Full-Stack Developer",
+      "startDate": "11/23",
+      "endDate": "04/24",
+      "responsibilities": [
+        "Empowered operations team(~25%): Successfully built a new car hub system through defining and designing a solution using .Net, C#, and RESTful APIs, and a monolithic architecture which are expected to speed up and improve Op’s teamwork quality. Data analytics and business matrices were involved and considered in this project.",
+        "Services Expansions(6): In a one-man team, I’ve developed up to six website-based applications and fully implemented two full-stack applications through .NET, C#, and Angular.",
+        "Increased efficiency & User Satisfaction (~30%): Neatly refactored roughly 50% of the existing codebase counting on Git, improving efficiency and user satisfaction around 30%. It saved time with reducing 25% of redundancy probability.",
+        "Feature Implementation (35+): Along the previous 5 months, successfully implemented over 35 features across various projects, excelling in the understanding of user needs and importance of functionality."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Car Hub Api",
+      "description": "Car Hub Management System",
+      "technologies": ["ASP.NET Core 8 Web API", "SQL Server", "Nswag", "ef-core"]
+    },
+    {
+      "name": "Managify",
+      "description": "Maintenance and Resource Management System",
+      "technologies": ["ASP.NET Core MVC", "SQL Server"]
+    },
+    {
+      "name": "Revive",
+      "description": "Physical Therapy Ecosystem",
+      "technologies": ["ASP.NET Core MVC", "SQL Server"]
+    },
+    {
+      "name": "Bazar",
+      "description": "E-Commerce Social Networking Platform",
+      "technologies": ["ASP.NET Core", "SQL Server", "RESTful API"]
+    },
+    {
+      "name": "DevAsk",
+      "description": "Simple StackOverflow clone",
+      "technologies": ["Spring Boot", "PostgreSQL", "ReactJs"]
+    },
+    {
+      "name": "Evify",
+      "description": "Event Manager Platform",
+      "technologies": ["ExpressJs", "Typescript", "MongoDB", "React.js"]
+    },
+    {
+      "name": "Bug Zone",
+      "description": "Social Media Application",
+      "technologies": ["TsEd (Typescript ExpressJS Based)", "Sqlite 3", "TypeOrm", "DI"]
+    },
+    {
+      "name": "Daftar",
+      "description": "E-Learning Website",
+      "technologies": ["ASP.NET Core MVC", "SQL Server"]
+    },
+    {
+      "name": "LarQ",
+      "description": "Simple Podcast Web App",
+      "technologies": ["ASP.NET Core MVC", "SQL Server", "Bootstrap"]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "C/C++",
+      "C#",
+      "HTML/CSS",
+      "Java",
+      "TypeScript",
+      "JavaScript",
+      "Rust",
+      "GoLang",
+      "Python"
+    ],
+    "frameworks": [
+      "ASP .NET Core",
+      "NodeJS",
+      "React JS",
+      "Angular",
+      "Spring Boot",
+      "Expressjs",
+      "TsEd",
+      "TypeOrm",
+      "EFCore",
+      "Prisma",
+      "SignalR",
+      "WebRTC"
+    ],
+    "databases": [
+      "SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "ci_cd": [
+      "Azure",
+      "AWS",
+      "Docker",
+      "Github Actions",
+      "GCP",
+      "Kubernetes"
+    ],
+    "other": [
+      "Design Patterns",
+      "Architectural Patterns",
+      "Microservices",
+      "Domain Driven Design(DDD)",
+      "SOLID Principles",
+      "Linux",
+      "RESTful APIs",
+      "Test-Driven Development (TDD)"
+    ],
+    "soft": [
+      "Strong Communication Skills",
+      "Process Documentation",
+      "Proven Problem Solving Skills",
+      "Data-Driven Decision Making",
+      "Complexity analysis",
+      "Quality Assurance Focus",
+      "Agile and Flexible"
+    ]
+  },
+  "extracurriculars": [
+    {
+      "activity": "Google Developer Student Club",
+      "role": "Co-lead",
+      "startDate": "08/22",
+      "endDate": "07/23",
+      "description": "Orchestrated impactful events including hackathons, demodays, and networking events, attracting over 7,896 participants. Driving community growth through tech. Initiatives oriented with computer engineering, planned and executed by the collaboration and leading by example between the lead, me, and the team."
+    }
+  ]
+}
